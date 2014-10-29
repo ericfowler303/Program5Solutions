@@ -54,44 +54,44 @@ namespace HomeworkDay2
 
             // While Loop Practice
             // #13
-            int counter13 = 1;
-            while (counter13 < 11)
+            int whileCounter = 1;
+            while (whileCounter < 11)
             {
-                Console.WriteLine(counter13);
-                counter13++;
+                Console.WriteLine(whileCounter);
+                whileCounter++;
             }
             // #14
-            int counter14 = 10;
-            while (counter14 > 0)
+            whileCounter = 10;
+            while (whileCounter > 0)
             {
-                Console.WriteLine(counter14);
-                counter14--;
+                Console.WriteLine(whileCounter);
+                whileCounter--;
             }
             // #15
-            int counter15 = 15;
-            while (counter15 < 31)
+            whileCounter = 15;
+            while (whileCounter < 31)
             {
-                if (counter15 % 2 == 0) { Console.WriteLine(counter15); }
-                counter15++;
+                if (whileCounter % 2 == 0) { Console.WriteLine(whileCounter); }
+                whileCounter++;
             }
             // #16
-            int counter16 = 100;
-            while(counter16 >74) {
-                if (counter16 % 5 == 0) { Console.WriteLine(counter16); }
-                counter16--;
+            whileCounter = 100;
+            while(whileCounter >74) {
+                if (whileCounter % 5 == 0) { Console.WriteLine(whileCounter); }
+                whileCounter--;
             }
             // #17
-            int counter17 = 1;
+            whileCounter = 1;
             while (myBool)
             {
-                if(counter17 % 4 ==0)
+                if(whileCounter % 4 ==0)
                 {
                     myBool = false;
                 }
                 else
                 {
-                    Console.WriteLine(counter17);
-                    counter17++;
+                    Console.WriteLine(whileCounter);
+                    whileCounter++;
                 }
             }
 
