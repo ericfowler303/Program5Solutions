@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\Week2LambdaPractice\Week2LambdaPractice\bin\Debug\Week2LambdaPractice.exe.config
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\Week2LambdaPractice\Week2LambdaPractice\bin\Debug\Week2LambdaPractice.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\Week2LambdaPractice\Week2LambdaPractice\bin\Debug\Week2LambdaPractice.pdb
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\Week2LambdaPractice\Week2LambdaPractice\obj\Debug\Week2LambdaPractice.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\Week2LambdaPractice\Week2LambdaPractice\obj\Debug\Week2LambdaPractice.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\Week2LambdaPractice\Week2LambdaPractice\obj\Debug\Week2LambdaPractice.pdb
